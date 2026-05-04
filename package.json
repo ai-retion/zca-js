@@ -20,8 +20,7 @@
         "test:feat": "npm run test/feat.ts",
         "prettier": "prettier --write .",
         "lint": "eslint .",
-        "lint:fix": "eslint . --fix",
-        "prepare": "npm run build"
+        "lint:fix": "eslint . --fix"
     },
     "repository": {
         "type": "git",
