@@ -21,7 +21,7 @@
         "prettier": "prettier --write .",
         "lint": "eslint .",
         "lint:fix": "eslint . --fix",
-        "prepare": "husky && npm run build"
+        "prepare": "npm run build"
     },
     "repository": {
         "type": "git",
